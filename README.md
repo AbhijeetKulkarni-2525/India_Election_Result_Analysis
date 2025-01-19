@@ -1,8 +1,8 @@
-# Project Overview: India_Election_Result_Analysis
+## Project Overview: India_Election_Result_Analysis
 
 This project analyzes election data from various constituencies and states. The SQL queries aim to calculate the number of seats, track electoral results, and analyze the performance of political alliances and individual parties. The analysis includes the distribution of seats, votes, and other critical insights related to election outcomes.
 
-## Steps Performed:
+### Steps Performed:
 
 - **Dataset Exploration:**
   - Retrieve the raw data from tables like `constituencywise_details`, `constituencywise_results`, `partywise_results`, `states`, and `statewise_results` to explore and understand the available data.
